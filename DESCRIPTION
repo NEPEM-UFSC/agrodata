@@ -1,0 +1,18 @@
+Package: agrodata
+Type: Package
+Title: Agronomical Datasets for Teaching Purposes
+Version: 0.1.0
+Authors@R: 
+    person("Tiago", "Olivoto", , "tiagoolivoto@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-0241-9636"))
+Maintainer: Tiago Olivoto <tiagoolivoto@gmail.com>
+Description: This package provides a collection of agronomical datasets
+    designed for teaching purposes. It includes various datasets that
+    cover different aspects of agronomy and data analysis, enabling students
+    to practice statistical and data science methods in agronomy.
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+License: MIT + file LICENSE
+Imports: 
+    ggplot2
