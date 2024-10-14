@@ -10,5 +10,6 @@ ad_normal()
 A data frame
 }
 \description{
-The data contains the length of 205.043 flax grains that follows a normal distribution
+The data contains the length of 205.043 flax grains that follows a normal
+distribution
 }
